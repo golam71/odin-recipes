@@ -1,0 +1,27 @@
+body {
+    font-size: large;
+    line-height: 1.3em;
+    background-color: #0f172a;
+    color: #dce1e7;
+    font-family: 'Franklin Gothic ', 'Arial Narrow', Arial, sans-serif
+}
+
+h1 {
+    color: #4d77ff
+}
+
+h2 {
+    color: aquamarine
+}
+
+
+@media (min-width : 800px) {
+    body {
+        width: 40%;
+        margin: 0 auto;
+    }
+}
+
+a {
+    color: aqua
+}
